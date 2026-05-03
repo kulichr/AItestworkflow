@@ -1,1 +1,1 @@
-print "hello world and me"
+print "hello world"
